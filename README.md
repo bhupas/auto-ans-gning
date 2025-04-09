@@ -1,6 +1,6 @@
 # coverletter-generator
 
-This streamlit app generate an AI-produced cover letter using OpenAI. 
+This streamlit app generate an AI-produced cover letter using gemini. 
 
 All you need to do is:
 
